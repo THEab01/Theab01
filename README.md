@@ -11,9 +11,9 @@
 
 ---
 
-### 🛡️ My Focus & Expertise
+### My Focus & Expertise
 
-I am a student at **INPT (Institut National des Postes et Télécommunications, Rabat)** deeply passionate about offensive security and ethical hacking. My primary areas of focus include:
+I am a student at **INPT Rabat deeply passionate about offensive security and ethical hacking. My primary areas of focus include:
 
 * **Web Application Security:** Deep understanding and testing of the OWASP Top 10.
 * **Capture The Flag (CTF) Challenges:** Applying problem-solving skills to real-world security scenarios.
@@ -22,9 +22,9 @@ I am a student at **INPT (Institut National des Postes et Télécommunications, 
 
 I am actively working on strengthening my practical skills through hands-on development:
 
-> 🛠️ **Current Focus:** Developing a personal **WebSec Lab** environment to showcase and document common Web Application vulnerabilities (e.g., SQL Injection, XSS, and Command Injections). This project serves as a dynamic portfolio of security understanding.
+>  **Current Focus:** Developing a personal **WebSec Lab** environment to showcase and document common Web Application vulnerabilities (e.g., SQL Injection, XSS, and Command Injections). This project serves as a dynamic portfolio of security understanding.
 
-### 🧠 Skills I Bring to the Table
+###  Skills I Bring to the Table
 
 Here are the languages and core tools I utilize for security testing and development:
 
@@ -36,7 +36,7 @@ Here are the languages and core tools I utilize for security testing and develop
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 Feel free to reach out—I'm always open to discussing new security concepts and collaborations!
 
