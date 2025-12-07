@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Theab01 👋
+# Hi, I'm Theab01 
 ## Cybersecurity Enthusiast | Focus on Web Pentesting
 
 [![GitHub followers](https://img.shields.io/github/followers/Theab01?style=social)](https://github.com/Theab01)
@@ -13,7 +13,7 @@
 
 ### My Focus & Expertise
 
-I am a student at **INPT Rabat deeply passionate about offensive security and ethical hacking. My primary areas of focus include:
+I am a student at INPT Rabat deeply passionate about offensive security and ethical hacking. My primary areas of focus include:
 
 * **Web Application Security:** Deep understanding and testing of the OWASP Top 10.
 * **Capture The Flag (CTF) Challenges:** Applying problem-solving skills to real-world security scenarios.
