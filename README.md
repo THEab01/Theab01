@@ -18,11 +18,6 @@ I am a student at INPT Rabat deeply passionate about offensive security and ethi
 * **Web Application Security:** Deep understanding and testing of the OWASP Top 10.
 * **Capture The Flag (CTF) Challenges:** Applying problem-solving skills to real-world security scenarios.
 
-###  Current Goals & Projects
-
-I am actively working on strengthening my practical skills through hands-on development:
-
-  **Current Focus:** Developing a personal **WebSec Lab** environment to showcase and document common Web Application vulnerabilities (e.g., SQL Injection, XSS, and Command Injections). This project serves as a dynamic portfolio of security understanding.
 
 ###  Skills I Bring to the Table
 
